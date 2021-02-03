@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "S/X07bFEQ3YEcGpQZPyUBZYF1g1O0I6kiFtZqyEdKKUYGlCBqd/tcswo3aPZ52PnE85DqNh+3zwBIiPgQrOZSQ==",
+  "success": true,
+  "projectFilePath": "E:\\SE]er\\Submission_18588595 (1)\\CounterStrike.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Konstantin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Konstantin\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Konstantin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\Konstantin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
